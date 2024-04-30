@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aytac</h1>
 <h3 align="center">A passionate Software Developer from Azerbaijan</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **React js, Node js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aytacrzayevaa?tab=repositories](https://github.com/aytacrzayevaa?tab=repositories)
 
