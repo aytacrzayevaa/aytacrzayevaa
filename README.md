@@ -1,4 +1,3 @@
-[![MasterHead](https://pin.it/4lU9DAuck)
 <h1 align="center">Hi 👋, I'm Aytac</h1>
 <h3 align="center">A passionate software developer from Azerbaijan</h3>
 
